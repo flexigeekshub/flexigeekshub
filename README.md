@@ -28,7 +28,7 @@ At DevDynesty, we're passionate about crafting stunning and innovative websites.
 Join us in shaping the future of web development. Whether you're passionate about front-end, back-end, design, or anything in between, DevDynesty is the place to learn, create, and collaborate. Together, let's code the web of tomorrow!
 
 ## Connect with us:
-🌐 Website: https://www.devsdynasty.netlify.com 
+🌐 Website: https://devsdynasty.netlify.app/ 
 📧 Contact: mail.mayank001@gmail.com
 🐦 Twitter: imMayank_22
 📌 GitHub: 
