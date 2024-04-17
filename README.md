@@ -1,6 +1,6 @@
-# Welcome to DevDynesty - where creativity meets collaboration! 🌐💻
+# Welcome to FlexiGeeks - where creativity meets collaboration! 🌐💻
 
-At DevDynesty, we're passionate about crafting stunning and innovative websites. Our organization serves as a hub for developers, designers, content creators, and anyone enthusiastic about the web development landscape. Whether you're a seasoned pro or just diving into the world of web design, there's a place for you here.
+At FLexiGeeks, we're passionate about crafting stunning and innovative websites. Our organization serves as a hub for developers, designers, content creators, and anyone enthusiastic about the web development landscape. Whether you're a seasoned pro or just diving into the world of web design, there's a place for you here.
 
 ## What We Do:
 
@@ -28,7 +28,7 @@ At DevDynesty, we're passionate about crafting stunning and innovative websites.
 Join us in shaping the future of web development. Whether you're passionate about front-end, back-end, design, or anything in between, DevDynesty is the place to learn, create, and collaborate. Together, let's code the web of tomorrow!
 
 ## Connect with us:
-🌐 Website: https://devsdynasty.netlify.app/ 
-📧 Contact: mail.mayank001@gmail.com
-🐦 Twitter: imMayank_22
-📌 GitHub: 
+🌐 Website: https://flexigeeks.vercel.app/ 
+📧 Contact: flexi.geeks001@gmail.com
+🐦 Twitter: @flexigeeks
+📌 GitHub: @flexigeeks
